@@ -26,10 +26,7 @@ fun BubbleSort(A:Array<Int>){
     }
 
 }
-fun main(ar:Array<String>){
-   var b= arrayOf<Int>(6,5,3,43,2,3,4,65,45,12,447,1)
-   BubbleSort(b)
-}
+
 fun main(ar:Array<String>){
    var b= arrayOf<Int>(6,5,3,43,2,3,4,65,45,12,447,1)
    BubbleSort(b)
