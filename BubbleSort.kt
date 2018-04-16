@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*  Starts in the beginning of the array and swapping the first two 
     elements only if the first element is greater than the second element
     This comparison is then moved onto the next pair and so on and so forth
@@ -6,7 +6,7 @@
 
  */
 =======
->>>>>>> 34e46f062614b4b56416357bcd7b9f22a60daa9a
+
 fun BubbleSort(A:Array<Int>){
     for(l in A){
         print(l.toString()+",")
