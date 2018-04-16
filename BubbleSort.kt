@@ -5,7 +5,7 @@
     This is done until the array is completely sorted
 
  */
-=======
+
 
 fun BubbleSort(A:Array<Int>){
     for(l in A){
