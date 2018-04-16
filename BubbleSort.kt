@@ -24,13 +24,11 @@ fun BubbleSort(A:Array<Int>){
     for(v in A){
         print(v.toString()+",")
     }
-<<<<<<< HEAD
-=======
+
 }
 fun main(ar:Array<String>){
    var b= arrayOf<Int>(6,5,3,43,2,3,4,65,45,12,447,1)
    BubbleSort(b)
->>>>>>> 34e46f062614b4b56416357bcd7b9f22a60daa9a
 }
 fun main(ar:Array<String>){
    var b= arrayOf<Int>(6,5,3,43,2,3,4,65,45,12,447,1)
