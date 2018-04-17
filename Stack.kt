@@ -19,6 +19,7 @@ class Stack(tam:Int){
         }else{
             println("");
             println("Ya no puedes ingresar datos")
+            println("Pinche zhou")
         }
         
     }
