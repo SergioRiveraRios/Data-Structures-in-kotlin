@@ -44,14 +44,3 @@ class Stack(tam:Int){
         }
     }
 }
-fun main(arr:Array<String>){
-   val myStack=Stack(4)
-   myStack.isEmpty().also(::println)
-   myStack.push(1)
-   myStack.push(2)
-   myStack.push(3)
-   myStack.push(4)
-   myStack.print()
-   myStack.pop()
-   myStack.search(3).also(::println)
-}
